@@ -1,2 +1,5 @@
 [project]
 name = demo
+
+[packages]
+lektor-asciidoc = 0.3
